@@ -1,7 +1,7 @@
 {
   "always_show_minimap_viewport": true,
   "bold_folder_labels": true,
-  "color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
+  "color_scheme": "Packages/Agila Theme/Agila Classic Oceanic Next.tmTheme",
   "draw_minimap_border": true,
   "draw_white_space": "all",
   "font_face": "Hermet",
@@ -21,6 +21,7 @@
   ],
   "save_on_focus_lost": true,
   "tab_size": 2,
+  "theme": "Agila Classic.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true
 }
